@@ -1,0 +1,227 @@
+.first-section{
+    background-color:blue;
+    height: 100vh;
+
+}
+
+.top-section{
+   
+}
+.b{
+    background-color: blue;
+    color: white;
+}
+
+.nav-link:hover{
+color: orange;
+
+}
+
+.nav-link{
+    color: white;
+}
+
+.introduction{
+    border-left: 3px solid orange;
+   
+}
+
+.title{
+    font-size: 70px;
+}
+
+.underline hr{
+    width: 30%;
+    background: orange;
+    float: left;
+}
+
+.fab:hover{
+    background: red
+    ;
+}
+.d{
+    width:8%;
+    background:red;
+}
+
+.fbicon
+{
+    background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 0 auto;
+
+}
+
+.fab{
+    background: yellow;
+    margin-top: 18px;
+    padding: 15px 15px;
+    
+}
+.messenger{
+    background:blue;
+    height:50px;
+    width:50px;
+   border-radius:50%;
+   margin:0 auto;
+
+}
+.progress-bar{
+    height: 130px;
+}
+.footer{
+    background-color:lightblue;
+    height:80vh;
+    margin-top: 60px;
+
+}
+
+.card-footer{
+    background-color:blue;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-footer{
+
+    border: none;
+    border-radius: 0;
+}
+
+
+
+
+
+
+
+.progress, .progress-bar{
+    border-radius: 20px;
+}
+.last{
+background-color:rgb(34, 39, 41);
+}
+
+.spacing{
+    letter-spacing:20px;
+  
+}
+ 
+
+.card-img-top:hover{
+display: bottom;
+
+}
+
+.card-pic{
+    width: 400px;
+    height: 600px;
+}
+.sobi{+++0
+    height:800px;
+    width:350px;
+    background-image:url(/img/03_Courses.jpg);
+    background-position:top;
+    background-size:cover;
+    
+}
+.sobi:hover{
+    background-position:bottom;
+    transition: ease-in-out 10s;
+    
+
+}
+
+.pic{
+    height: 600px;
+    background-position: top;
+    background-image: url(/img/08_Courses\ Detail.jpg);
+    background-size: cover;
+
+    }
+    
+.pic{
+    height: 600px;
+    background-position: top;
+    background-image: url(/img/04_Courses\ Detail.jpg);
+    background-size: cover;
+
+    }
+    
+.pic{
+    height: 600px;
+    width:400px;
+    background-position: top;
+    background-image: url(/img/01_Home.jpg);
+    background-size: cover;
+
+    }
+    
+    
+    
+    .pic:hover{
+        background-position: bottom;
+        transition: ease-in-out 10s;
+    }
+
+
+
+    .first-section{
+        margin-bottom: 100px;
+    }
+
+
+    .second-section{
+        margin-bottom: 100px;
+
+    }
+
+
+
+    .third-section{
+    padding: 100px 0;
+    }
+    .work-section{
+        margin-top: 100px;
+
+        
+    }
+    .touch-area{
+        margin-bottom: 100px;
+    }
+    .project{
+        margin-bottom:100px;
+    }
+    .pi{
+        height:400px;
+        width:400px;
+        background-image:url(/img/04_Courses\ Detail\ -\ Copy.jpg);
+
+        
+        background-position:top;
+        background-size:cover;
+        
+    }
+    .pi:hover{
+    background-position: bottom;
+    transition: ease-in-out 10s;
+
+    }
+    .fa{
+        background-color: yellow;
+        padding: 8px;
+        border:1px solid black;
+        border-radius: 5px;
+    }
+    .fa:hover{
+        background-color: black;
+        color:white;
+    }
+    .card-dech fa{
+        border-radius:50%;
+    }
+    .ba{
+        width: 400px;
+    }
